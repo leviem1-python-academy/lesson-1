@@ -11,7 +11,7 @@ Please install the following software:
 - [Python 3.11 (or higher)](https://www.python.org/downloads/)
 
 #### Downloading and opening the lesson
-Please watch [this video]() for help with this section. 
+Please watch [this video](https://youtu.be/LJfBeIR5R10) for help with this section. 
 
 1. Fork the repository
 2. Enable GitHub Actions
@@ -30,10 +30,10 @@ print(5)  # Output: 5
 
 ## Exercises
 
-Please watch [this video]() for help with this section.
+Please watch [this video](https://youtu.be/byh0q25zUK4) for help with this section.
 
 ### Writing your code
-Open the file named "__init__.py" in the "app" folder. This file will be where you
+Open the file named `__init__.py` in the "app" folder. This file will be where you
 write the code for each exercise.
 
 For this exercise, simply read the code in the file.
